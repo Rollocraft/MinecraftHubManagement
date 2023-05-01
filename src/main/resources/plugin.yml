@@ -1,0 +1,4 @@
+name: Rcpvp-Lobby-System
+version: '${project.version}'
+main: de.rollocraft.rcpvplobbysystem.RcpvpLobbySystem
+api-version: 1.19
